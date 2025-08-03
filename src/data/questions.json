@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "question": "Uçuş sırasında kaptanın CRM liderliği nasıl görünmelidir?",
+    "options": [
+      "Baş ağrısı, solgunluk ve bilinç bulanıklığı görülebilir.",
+      "Empatik ve yapıcı müdahale gerekir.",
+      "CAT III koşullarında aktif edilir.",
+      "Lider kaptan net, sakin ve rehber olmalıdır."
+    ],
+    "answer": "Lider kaptan net, sakin ve rehber olmalıdır.",
+    "explanation": "CRM, uçuş güvenliği için doğru iletişim, liderlik ve iş birliğini şart koşar."
+  },
+  {
+    "id": 2,
+    "question": "CRM’de 'assertiveness' neden önemlidir?",
+    "options": [
+      "Checklist ve teknik destekle ilerlenir.",
+      "İletişim ve kontrollü uçuş devam ettirilir.",
+      "Lider kaptan net, sakin ve rehber olmalıdır.",
+      "Empatik ve yapıcı müdahale gerekir."
+    ],
+    "answer": "Empatik ve yapıcı müdahale gerekir.",
+    "explanation": "Pilot psikolojisi, karar kalitesi ve dikkat seviyesini doğrudan etkiler."
+  },
+  {
+    "id": 3,
+    "question": "Dual engine failure durumunda pilotun CRM’e göre ilk görevi nedir?",
+    "options": [
+      "Checklist açılır, sistem basınçları kontrol edilir.",
+      "Sessizlik, tehlikelerin paylaşılmamasına neden olabilir.",
+      "Briefing net, kısa ve operasyonel olmalıdır.",
+      "Baskı altında iletişim koparsa risk artar."
+    ],
+    "answer": "Checklist açılır, sistem basınçları kontrol edilir.",
+    "explanation": "Her teknik durumda, checklist ve uçuş eğitimi prosedürleri önceliklidir."
+  },
+  {
+    "id": 4,
+    "question": "Kokpitte stres yönetimi nasıl sağlanmalıdır?",
+    "options": [
+      "TCAS RA varsa ATC değil, sistem talimatı önceliklidir.",
+      "Doğru zamanda net müdahale kazaları önleyebilir.",
+      "Briefing net, kısa ve operasyonel olmalıdır.",
+      "Kaliteli uyku ve dinlenme en etkili yöntemdir."
+    ],
+    "answer": "Briefing net, kısa ve operasyonel olmalıdır.",
+    "explanation": "CRM, uçuş güvenliği için doğru iletişim, liderlik ve iş birliğini şart koşar."
+  },
+  {
+    "id": 5,
+    "question": "Stresli anlarda pilotun bilişsel kabiliyetinde ne gibi değişimler olur?",
+    "options": [
+      "Lider kaptan net, sakin ve rehber olmalıdır.",
+      "NOTAM eksikliği güvenliği doğrudan etkileyebilir.",
+      "Dinlenmeyen bilgi hatalara yol açabilir.",
+      "Kaliteli uyku ve dinlenme en etkili yöntemdir."
+    ],
+    "answer": "Kaliteli uyku ve dinlenme en etkili yöntemdir.",
+    "explanation": "Pilot psikolojisi, karar kalitesi ve dikkat seviyesini doğrudan etkiler."
+  },
+  {
+    "id": 6,
+    "question": "Hydraulic sistem arızasında kaptanın ilk aksiyonu ne olur?",
+    "options": [
+      "Doğru zamanda net müdahale kazaları önleyebilir.",
+      "Dinlenmeyen bilgi hatalara yol açabilir.",
+      "NOTAM eksikliği güvenliği doğrudan etkileyebilir.",
+      "Feedback geçmişi, feedforward geleceği şekillendirir."
+    ],
+    "answer": "NOTAM eksikliği güvenliği doğrudan etkileyebilir.",
+    "explanation": "Her teknik durumda, checklist ve uçuş eğitimi prosedürleri önceliklidir."
+  },
+  {
+    "id": 7,
+    "question": "Briefing sırasında dikkat edilmesi gereken ana unsurlar nelerdir?",
+    "options": [
+      "Uyku bozukluğu, ilgisizlik ve sinirlilik görülür.",
+      "Spoilerlar inişte hız kesmek ve yer tutuşunu artırmak için kullanılır.",
+      "Steril cockpit kalkış ve yaklaşma sırasında dikkat dağınıklığını önler.",
+      "İlgili tanklar kapatılır ve balans sağlanır."
+    ],
+    "answer": "Steril cockpit kalkış ve yaklaşma sırasında dikkat dağınıklığını önler.",
+    "explanation": "CRM, uçuş güvenliği için doğru iletişim, liderlik ve iş birliğini şart koşar."
+  },
+  {
+    "id": 8,
+    "question": "CRM kapsamında mental yorgunluk nasıl anlaşılır?",
+    "options": [
+      "Spoilerlar inişte hız kesmek ve yer tutuşunu artırmak için kullanılır.",
+      "ILS CAT II/III prosedürü uygulanır.",
+      "Baskı altında iletişim koparsa risk artar.",
+      "Checklist ve teknik destekle ilerlenir."
+    ],
+    "answer": "Baskı altında iletişim koparsa risk artar.",
+    "explanation": "Pilot psikolojisi, karar kalitesi ve dikkat seviyesini doğrudan etkiler."
+  },
+  {
+    "id": 9,
+    "question": "Dual engine failure durumunda pilotun CRM’e göre ilk görevi nedir?",
+    "options": [
+      "Feedback geçmişi, feedforward geleceği şekillendirir.",
+      "Emniyeti etkileyen kritik durumlarda kaptan inisiyatif alır.",
+      "Kaliteli uyku ve dinlenme en etkili yöntemdir.",
+      "İlgili tanklar kapatılır ve balans sağlanır."
+    ],
+    "answer": "İlgili tanklar kapatılır ve balans sağlanır.",
+    "explanation": "Her teknik durumda, checklist ve uçuş eğitimi prosedürleri önceliklidir."
+  },
+  {
+    "id": 10,
+    "question": "Kokpitte stres yönetimi nasıl sağlanmalıdır?",
+    "options": [
+      "Görevlerin açık şekilde belirlenmesi verimliliği artırır.",
+      "Odak kaybı, hata yapma sıklığı ile anlaşılır.",
+      "Empatik ve yapıcı müdahale gerekir.",
+      "İletişim ve kontrollü uçuş devam ettirilir."
+    ],
+    "answer": "Görevlerin açık şekilde belirlenmesi verimliliği artırır.",
+    "explanation": "CRM, uçuş güvenliği için doğru iletişim, liderlik ve iş birliğini şart koşar."
+  },
+  {
+    "id": 11,
+    "question": "Kokpit içinde duygusal patlamalarla nasıl baş edilir?",
+    "options": [
+      "Odak kaybı, hata yapma sıklığı ile anlaşılır.",
+      "Burnu aşağı ver, güç ver, flapları duruma göre ayarla.",
+      "Spoilerlar inişte hız kesmek ve yer tutuşunu artırmak için kullanılır.",
+      "Feedback geçmişi, feedforward geleceği şekillendirir."
+    ],
+    "answer": "Odak kaybı, hata yapma sıklığı ile anlaşılır.",
+    "explanation": "Pilot psikolojisi, karar kalitesi ve dikkat seviyesini doğrudan etkiler."
+  },
+  {
+    "id": 12,
+    "question": "Düşük görüş şartlarında iniş prosedürü nasıl planlanmalıdır?",
+    "options": [
+      "Stres yönetimi eğitimle ve deneyimle sağlanır.",
+      "Feedback geçmişi, feedforward geleceği şekillendirir.",
+      "ILS CAT II/III prosedürü uygulanır.",
+      "Hemen standard iletişim prosedürlerine dönülmelidir."
+    ],
+    "answer": "ILS CAT II/III prosedürü uygulanır.",
+    "explanation": "Her teknik durumda, checklist ve uçuş eğitimi prosedürleri önceliklidir."
+  },
+  {
+    "id": 13,
+    "question": "Uçuş sırasında kaptanın CRM liderliği nasıl görünmelidir?",
+    "options": [
+      "Emniyeti etkileyen kritik durumlarda kaptan inisiyatif alır.",
+      "Burnu aşağı ver, güç ver, flapları duruma göre ayarla.",
+      "NOTAM eksikliği güvenliği doğrudan etkileyebilir.",
+      "TCAS RA varsa ATC değil, sistem talimatı önceliklidir."
+    ],
+    "answer": "Emniyeti etkileyen kritik durumlarda kaptan inisiyatif alır.",
+    "explanation": "CRM, uçuş güvenliği için doğru iletişim, liderlik ve iş birliğini şart koşar."
+  },
+  {
+    "id": 14,
+    "question": "CRM’e göre güvenli karar vermeyi etkileyen psikolojik faktörler nelerdir?",
+    "options": [
+      "Burnu aşağı ver, güç ver, flapları duruma göre ayarla.",
+      "Korku, baskı ve zaman stresi karar kalitesini düşürür.",
+      "CAT III koşullarında aktif edilir.",
+      "FO proaktif olmalı, gerektiğinde fikir belirtmelidir."
+    ],
+    "answer": "Korku, baskı ve zaman stresi karar kalitesini düşürür.",
+    "explanation": "Pilot psikolojisi, karar kalitesi ve dikkat seviyesini doğrudan etkiler."
+  },
+  {
+    "id": 15,
+    "question": "Düşük görüş şartlarında iniş prosedürü nasıl planlanmalıdır?",
+    "options": [
+      "Hemen standard iletişim prosedürlerine dönülmelidir.",
+      "Algı daralır, karar süresi uzar.",
+      "İletişim ve kontrollü uçuş devam ettirilir.",
+      "FO proaktif olmalı, gerektiğinde fikir belirtmelidir."
+    ],
+    "answer": "İletişim ve kontrollü uçuş devam ettirilir.",
+    "explanation": "Her teknik durumda, checklist ve uçuş eğitimi prosedürleri önceliklidir."
+  },
+  {
+    "id": 16,
+    "question": "Uçuş sırasında kaptanın CRM liderliği nasıl görünmelidir?",
+    "options": [
+      "Dinlenmeyen bilgi hatalara yol açabilir.",
+      "Spoilerlar inişte hız kesmek ve yer tutuşunu artırmak için kullanılır.",
+      "Odak kaybı, hata yapma sıklığı ile anlaşılır.",
+      "Burnu aşağı ver, güç ver, flapları duruma göre ayarla."
+    ],
+    "answer": "Dinlenmeyen bilgi hatalara yol açabilir.",
+    "explanation": "CRM, uçuş güvenliği için doğru iletişim, liderlik ve iş birliğini şart koşar."
+  },
+  {
+    "id": 17,
+    "question": "Tehdit ve hata yönetimi pilot psikolojisini nasıl etkiler?",
+    "options": [
+      "TCAS RA varsa ATC değil, sistem talimatı önceliklidir.",
+      "CAT III koşullarında aktif edilir.",
+      "Sessizlik, tehlikelerin paylaşılmamasına neden olabilir.",
+      "Emniyeti etkileyen kritik durumlarda kaptan inisiyatif alır."
+    ],
+    "answer": "Sessizlik, tehlikelerin paylaşılmamasına neden olabilir.",
+    "explanation": "Pilot psikolojisi, karar kalitesi ve dikkat seviyesini doğrudan etkiler."
+  },
+  {
+    "id": 18,
+    "question": "Düşük görüş şartlarında iniş prosedürü nasıl planlanmalıdır?",
+    "options": [
+      "FO proaktif olmalı, gerektiğinde fikir belirtmelidir.",
+      "Stres yönetimi eğitimle ve deneyimle sağlanır.",
+      "Algı daralır, karar süresi uzar.",
+      "Checklist ve teknik destekle ilerlenir."
+    ],
+    "answer": "Checklist ve teknik destekle ilerlenir.",
+    "explanation": "Her teknik durumda, checklist ve uçuş eğitimi prosedürleri önceliklidir."
+  },
+  {
+    "id": 19,
+    "question": "Steril cockpit kavramı nedir ve neden uygulanır?",
+    "options": [
+      "Baş ağrısı, solgunluk ve bilinç bulanıklığı görülebilir.",
+      "İletişim ve kontrollü uçuş devam ettirilir.",
+      "Feedback geçmişi, feedforward geleceği şekillendirir.",
+      "ILS CAT II/III prosedürü uygulanır."
+    ],
+    "answer": "Feedback geçmişi, feedforward geleceği şekillendirir.",
+    "explanation": "CRM, uçuş güvenliği için doğru iletişim, liderlik ve iş birliğini şart koşar."
+  },
+  {
+    "id": 20,
+    "question": "Kokpitte sessiz kalmanın getirdiği riskler nelerdir?",
+    "options": [
+      "Emniyeti etkileyen kritik durumlarda kaptan inisiyatif alır.",
+      "Feedback geçmişi, feedforward geleceği şekillendirir.",
+      "CAT III koşullarında aktif edilir.",
+      "Baş ağrısı, solgunluk ve bilinç bulanıklığı görülebilir."
+    ],
+    "answer": "Baş ağrısı, solgunluk ve bilinç bulanıklığı görülebilir.",
+    "explanation": "Pilot psikolojisi, karar kalitesi ve dikkat seviyesini doğrudan etkiler."
+  },
+  {
+    "id": 21,
+    "question": "Düşük görüş şartlarında iniş prosedürü nasıl planlanmalıdır?",
+    "options": [
+      "Hemen standard iletişim prosedürlerine dönülmelidir.",
+      "Algı daralır, karar süresi uzar.",
+      "TCAS RA varsa ATC değil, sistem talimatı önceliklidir.",
+      "Feedback geçmişi, feedforward geleceği şekillendirir."
+    ],
+    "answer": "TCAS RA varsa ATC değil, sistem talimatı önceliklidir.",
+    "explanation": "Her teknik durumda, checklist ve uçuş eğitimi prosedürleri önceliklidir."
+  },
+  {
+    "id": 22,
+    "question": "Kokpitte stres yönetimi nasıl sağlanmalıdır?",
+    "options": [
+      "ILS CAT II/III prosedürü uygulanır.",
+      "FO proaktif olmalı, gerektiğinde fikir belirtmelidir.",
+      "Baş ağrısı, solgunluk ve bilinç bulanıklığı görülebilir.",
+      "Spoilerlar inişte hız kesmek ve yer tutuşunu artırmak için kullanılır."
+    ],
+    "answer": "FO proaktif olmalı, gerektiğinde fikir belirtmelidir.",
+    "explanation": "CRM, uçuş güvenliği için doğru iletişim, liderlik ve iş birliğini şart koşar."
+  },
+  {
+    "id": 23,
+    "question": "Yorgunlukla mücadelede en etkin bireysel yöntem nedir?",
+    "options": [
+      "ILS CAT II/III prosedürü uygulanır.",
+      "Feedback geçmişi, feedforward geleceği şekillendirir.",
+      "Steril cockpit kalkış ve yaklaşma sırasında dikkat dağınıklığını önler.",
+      "Uyku bozukluğu, ilgisizlik ve sinirlilik görülür."
+    ],
+    "answer": "Uyku bozukluğu, ilgisizlik ve sinirlilik görülür.",
+    "explanation": "Pilot psikolojisi, karar kalitesi ve dikkat seviyesini doğrudan etkiler."
+  },
+  {
+    "id": 24,
+    "question": "TCAS RA uyarısı alındığında ne yapılmalıdır?",
+    "options": [
+      "FO proaktif olmalı, gerektiğinde fikir belirtmelidir.",
+      "CAT III koşullarında aktif edilir.",
+      "Kaliteli uyku ve dinlenme en etkili yöntemdir.",
+      "Baskı altında iletişim koparsa risk artar."
+    ],
+    "answer": "CAT III koşullarında aktif edilir.",
+    "explanation": "Her teknik durumda, checklist ve uçuş eğitimi prosedürleri önceliklidir."
+  },
+  {
+    "id": 25,
+    "question": "Briefing sırasında dikkat edilmesi gereken ana unsurlar nelerdir?",
+    "options": [
+      "Hemen standard iletişim prosedürlerine dönülmelidir.",
+      "Doğru zamanda net müdahale kazaları önleyebilir.",
+      "NOTAM eksikliği güvenliği doğrudan etkileyebilir.",
+      "İletişim ve kontrollü uçuş devam ettirilir."
+    ],
+    "answer": "Hemen standard iletişim prosedürlerine dönülmelidir.",
+    "explanation": "CRM, uçuş güvenliği için doğru iletişim, liderlik ve iş birliğini şart koşar."
+  },
+  {
+    "id": 26,
+    "question": "CRM’e göre güvenli karar vermeyi etkileyen psikolojik faktörler nelerdir?",
+    "options": [
+      "Algı daralır, karar süresi uzar.",
+      "ILS CAT II/III prosedürü uygulanır.",
+      "NOTAM eksikliği güvenliği doğrudan etkileyebilir.",
+      "Hemen standard iletişim prosedürlerine dönülmelidir."
+    ],
+    "answer": "Algı daralır, karar süresi uzar.",
+    "explanation": "Pilot psikolojisi, karar kalitesi ve dikkat seviyesini doğrudan etkiler."
+  },
+  {
+    "id": 27,
+    "question": "Stall recovery adımları nelerdir?",
+    "options": [
+      "Burnu aşağı ver, güç ver, flapları duruma göre ayarla.",
+      "Dinlenmeyen bilgi hatalara yol açabilir.",
+      "Stres yönetimi eğitimle ve deneyimle sağlanır.",
+      "Lider kaptan net, sakin ve rehber olmalıdır."
+    ],
+    "answer": "Burnu aşağı ver, güç ver, flapları duruma göre ayarla.",
+    "explanation": "Her teknik durumda, checklist ve uçuş eğitimi prosedürleri önceliklidir."
+  },
+  {
+    "id": 28,
+    "question": "CRM’de feedforward ve feedback farkı nedir?",
+    "options": [
+      "CAT III koşullarında aktif edilir.",
+      "ILS CAT II/III prosedürü uygulanır.",
+      "Checklist ve teknik destekle ilerlenir.",
+      "Stres yönetimi eğitimle ve deneyimle sağlanır."
+    ],
+    "answer": "Stres yönetimi eğitimle ve deneyimle sağlanır.",
+    "explanation": "CRM, uçuş güvenliği için doğru iletişim, liderlik ve iş birliğini şart koşar."
+  },
+  {
+    "id": 29,
+    "question": "Yorgunlukla mücadelede en etkin bireysel yöntem nedir?",
+    "options": [
+      "FO proaktif olmalı, gerektiğinde fikir belirtmelidir.",
+      "TCAS RA varsa ATC değil, sistem talimatı önceliklidir.",
+      "Doğru zamanda net müdahale kazaları önleyebilir.",
+      "Hemen standard iletişim prosedürlerine dönülmelidir."
+    ],
+    "answer": "Doğru zamanda net müdahale kazaları önleyebilir.",
+    "explanation": "Pilot psikolojisi, karar kalitesi ve dikkat seviyesini doğrudan etkiler."
+  },
+  {
+    "id": 30,
+    "question": "Dual engine failure durumunda pilotun CRM’e göre ilk görevi nedir?",
+    "options": [
+      "Dinlenmeyen bilgi hatalara yol açabilir.",
+      "Spoilerlar inişte hız kesmek ve yer tutuşunu artırmak için kullanılır.",
+      "Hemen standard iletişim prosedürlerine dönülmelidir.",
+      "Empatik ve yapıcı müdahale gerekir."
+    ],
+    "answer": "Spoilerlar inişte hız kesmek ve yer tutuşunu artırmak için kullanılır.",
+    "explanation": "Her teknik durumda, checklist ve uçuş eğitimi prosedürleri önceliklidir."
+  },
+  {
+    "id": 31,
+    "question": "Briefing sırasında dikkat edilmesi gereken ana unsurlar nelerdir?",
+    "options": [
+      "Lider kaptan net, sakin ve rehber olmalıdır.",
+      "Sessizlik, tehlikelerin paylaşılmamasına neden olabilir.",
+      "ILS CAT II/III prosedürü uygulanır.",
+      "Burnu aşağı ver, güç ver, flapları duruma göre ayarla."
+    ],
+    "answer": "Lider kaptan net, sakin ve rehber olmalıdır.",
+    "explanation": "CRM, uçuş güvenliği için doğru iletişim, liderlik ve iş birliğini şart koşar."
+  },
+  {
+    "id": 32,
+    "question": "CRM’de 'assertiveness' neden önemlidir?",
+    "options": [
+      "Stres yönetimi eğitimle ve deneyimle sağlanır.",
+      "Empatik ve yapıcı müdahale gerekir.",
+      "Lider kaptan net, sakin ve rehber olmalıdır.",
+      "Checklist ve teknik destekle ilerlenir."
+    ],
+    "answer": "Empatik ve yapıcı müdahale gerekir.",
+    "explanation": "Pilot psikolojisi, karar kalitesi ve dikkat seviyesini doğrudan etkiler."
+  },
+  {
+    "id": 33,
+    "question": "Hydraulic sistem arızasında kaptanın ilk aksiyonu ne olur?",
+    "options": [
+      "Baskı altında iletişim koparsa risk artar.",
+      "Briefing net, kısa ve operasyonel olmalıdır.",
+      "Emniyeti etkileyen kritik durumlarda kaptan inisiyatif alır.",
+      "Checklist açılır, sistem basınçları kontrol edilir."
+    ],
+    "answer": "Checklist açılır, sistem basınçları kontrol edilir.",
+    "explanation": "Her teknik durumda, checklist ve uçuş eğitimi prosedürleri önceliklidir."
+  },
+  {
+    "id": 34,
+    "question": "CRM kapsamında bir FO’nun beklenen davranışı nedir?",
+    "options": [
+      "Algı daralır, karar süresi uzar.",
+      "Spoilerlar inişte hız kesmek ve yer tutuşunu artırmak için kullanılır.",
+      "Checklist ve teknik destekle ilerlenir.",
+      "Briefing net, kısa ve operasyonel olmalıdır."
+    ],
+    "answer": "Briefing net, kısa ve operasyonel olmalıdır.",
+    "explanation": "CRM, uçuş güvenliği için doğru iletişim, liderlik ve iş birliğini şart koşar."
+  },
+  {
+    "id": 35,
+    "question": "Kokpitte sessiz kalmanın getirdiği riskler nelerdir?",
+    "options": [
+      "Kaliteli uyku ve dinlenme en etkili yöntemdir.",
+      "Checklist açılır, sistem basınçları kontrol edilir.",
+      "ILS CAT II/III prosedürü uygulanır.",
+      "Burnu aşağı ver, güç ver, flapları duruma göre ayarla."
+    ],
+    "answer": "Kaliteli uyku ve dinlenme en etkili yöntemdir.",
+    "explanation": "Pilot psikolojisi, karar kalitesi ve dikkat seviyesini doğrudan etkiler."
+  },
+  {
+    "id": 36,
+    "question": "TCAS RA uyarısı alındığında ne yapılmalıdır?",
+    "options": [
+      "FO proaktif olmalı, gerektiğinde fikir belirtmelidir.",
+      "NOTAM eksikliği güvenliği doğrudan etkileyebilir.",
+      "Sessizlik, tehlikelerin paylaşılmamasına neden olabilir.",
+      "Hemen standard iletişim prosedürlerine dönülmelidir."
+    ],
+    "answer": "NOTAM eksikliği güvenliği doğrudan etkileyebilir.",
+    "explanation": "Her teknik durumda, checklist ve uçuş eğitimi prosedürleri önceliklidir."
+  },
+  {
+    "id": 37,
+    "question": "CRM kapsamında bir FO’nun beklenen davranışı nedir?",
+    "options": [
+      "Burnu aşağı ver, güç ver, flapları duruma göre ayarla.",
+      "İlgili tanklar kapatılır ve balans sağlanır.",
+      "Kaliteli uyku ve dinlenme en etkili yöntemdir.",
+      "Steril cockpit kalkış ve yaklaşma sırasında dikkat dağınıklığını önler."
+    ],
+    "answer": "Steril cockpit kalkış ve yaklaşma sırasında dikkat dağınıklığını önler.",
+    "explanation": "CRM, uçuş güvenliği için doğru iletişim, liderlik ve iş birliğini şart koşar."
+  },
+  {
+    "id": 38,
+    "question": "CRM’e göre güvenli karar vermeyi etkileyen psikolojik faktörler nelerdir?",
+    "options": [
+      "Checklist ve teknik destekle ilerlenir.",
+      "Baskı altında iletişim koparsa risk artar.",
+      "NOTAM eksikliği güvenliği doğrudan etkileyebilir.",
+      "Checklist açılır, sistem basınçları kontrol edilir."
+    ],
+    "answer": "Baskı altında iletişim koparsa risk artar.",
+    "explanation": "Pilot psikolojisi, karar kalitesi ve dikkat seviyesini doğrudan etkiler."
+  },
+  {
+    "id": 39,
+    "question": "Bird strike sonrası kokpit ekibi nasıl bir yol izlemelidir?",
+    "options": [
+      "Hemen standard iletişim prosedürlerine dönülmelidir.",
+      "İlgili tanklar kapatılır ve balans sağlanır.",
+      "Lider kaptan net, sakin ve rehber olmalıdır.",
+      "Dinlenmeyen bilgi hatalara yol açabilir."
+    ],
+    "answer": "İlgili tanklar kapatılır ve balans sağlanır.",
+    "explanation": "Her teknik durumda, checklist ve uçuş eğitimi prosedürleri önceliklidir."
+  },
+  {
+    "id": 40,
+    "question": "Uçuş sırasında kaptanın CRM liderliği nasıl görünmelidir?",
+    "options": [
+      "Görevlerin açık şekilde belirlenmesi verimliliği artırır.",
+      "Checklist ve teknik destekle ilerlenir.",
+      "Algı daralır, karar süresi uzar.",
+      "Baş ağrısı, solgunluk ve bilinç bulanıklığı görülebilir."
+    ],
+    "answer": "Görevlerin açık şekilde belirlenmesi verimliliği artırır.",
+    "explanation": "CRM, uçuş güvenliği için doğru iletişim, liderlik ve iş birliğini şart koşar."
+  },
+  {
+    "id": 41,
+    "question": "Stresli anlarda pilotun bilişsel kabiliyetinde ne gibi değişimler olur?",
+    "options": [
+      "Odak kaybı, hata yapma sıklığı ile anlaşılır.",
+      "CAT III koşullarında aktif edilir.",
+      "Görevlerin açık şekilde belirlenmesi verimliliği artırır.",
+      "Hemen standard iletişim prosedürlerine dönülmelidir."
+    ],
+    "answer": "Odak kaybı, hata yapma sıklığı ile anlaşılır.",
+    "explanation": "Pilot psikolojisi, karar kalitesi ve dikkat seviyesini doğrudan etkiler."
+  },
+  {
+    "id": 42,
+    "question": "Stall recovery adımları nelerdir?",
+    "options": [
+      "Uyku bozukluğu, ilgisizlik ve sinirlilik görülür.",
+      "Sessizlik, tehlikelerin paylaşılmamasına neden olabilir.",
+      "Empatik ve yapıcı müdahale gerekir.",
+      "ILS CAT II/III prosedürü uygulanır."
+    ],
+    "answer": "ILS CAT II/III prosedürü uygulanır.",
+    "explanation": "Her teknik durumda, checklist ve uçuş eğitimi prosedürleri önceliklidir."
+  },
+  {
+    "id": 43,
+    "question": "Kokpit içinde görev dağılımı nasıl yapılmalı ve neden önemlidir?",
+    "options": [
+      "Baş ağrısı, solgunluk ve bilinç bulanıklığı görülebilir.",
+      "Checklist ve teknik destekle ilerlenir.",
+      "Checklist açılır, sistem basınçları kontrol edilir.",
+      "Emniyeti etkileyen kritik durumlarda kaptan inisiyatif alır."
+    ],
+    "answer": "Emniyeti etkileyen kritik durumlarda kaptan inisiyatif alır.",
+    "explanation": "CRM, uçuş güvenliği için doğru iletişim, liderlik ve iş birliğini şart koşar."
+  },
+  {
+    "id": 44,
+    "question": "Kokpitte sessiz kalmanın getirdiği riskler nelerdir?",
+    "options": [
+      "Burnu aşağı ver, güç ver, flapları duruma göre ayarla.",
+      "Stres yönetimi eğitimle ve deneyimle sağlanır.",
+      "ILS CAT II/III prosedürü uygulanır.",
+      "Korku, baskı ve zaman stresi karar kalitesini düşürür."
+    ],
+    "answer": "Korku, baskı ve zaman stresi karar kalitesini düşürür.",
+    "explanation": "Pilot psikolojisi, karar kalitesi ve dikkat seviyesini doğrudan etkiler."
+  },
+  {
+    "id": 45,
+    "question": "Stall recovery adımları nelerdir?",
+    "options": [
+      "Dinlenmeyen bilgi hatalara yol açabilir.",
+      "Baş ağrısı, solgunluk ve bilinç bulanıklığı görülebilir.",
+      "Hemen standard iletişim prosedürlerine dönülmelidir.",
+      "İletişim ve kontrollü uçuş devam ettirilir."
+    ],
+    "answer": "İletişim ve kontrollü uçuş devam ettirilir.",
+    "explanation": "Her teknik durumda, checklist ve uçuş eğitimi prosedürleri önceliklidir."
+  },
+  {
+    "id": 46,
+    "question": "CRM’de feedforward ve feedback farkı nedir?",
+    "options": [
+      "Dinlenmeyen bilgi hatalara yol açabilir.",
+      "Checklist açılır, sistem basınçları kontrol edilir.",
+      "Baş ağrısı, solgunluk ve bilinç bulanıklığı görülebilir.",
+      "İlgili tanklar kapatılır ve balans sağlanır."
+    ],
+    "answer": "Dinlenmeyen bilgi hatalara yol açabilir.",
+    "explanation": "CRM, uçuş güvenliği için doğru iletişim, liderlik ve iş birliğini şart koşar."
+  },
+  {
+    "id": 47,
+    "question": "Stresli anlarda pilotun bilişsel kabiliyetinde ne gibi değişimler olur?",
+    "options": [
+      "Steril cockpit kalkış ve yaklaşma sırasında dikkat dağınıklığını önler.",
+      "Dinlenmeyen bilgi hatalara yol açabilir.",
+      "Sessizlik, tehlikelerin paylaşılmamasına neden olabilir.",
+      "Burnu aşağı ver, güç ver, flapları duruma göre ayarla."
+    ],
+    "answer": "Sessizlik, tehlikelerin paylaşılmamasına neden olabilir.",
+    "explanation": "Pilot psikolojisi, karar kalitesi ve dikkat seviyesini doğrudan etkiler."
+  },
+  {
+    "id": 48,
+    "question": "Autoland sistemi hangi koşullarda kullanılır?",
+    "options": [
+      "Kaliteli uyku ve dinlenme en etkili yöntemdir.",
+      "Baş ağrısı, solgunluk ve bilinç bulanıklığı görülebilir.",
+      "Doğru zamanda net müdahale kazaları önleyebilir.",
+      "Checklist ve teknik destekle ilerlenir."
+    ],
+    "answer": "Checklist ve teknik destekle ilerlenir.",
+    "explanation": "Her teknik durumda, checklist ve uçuş eğitimi prosedürleri önceliklidir."
+  },
+  {
+    "id": 49,
+    "question": "CRM’de feedforward ve feedback farkı nedir?",
+    "options": [
+      "Feedback geçmişi, feedforward geleceği şekillendirir.",
+      "Doğru zamanda net müdahale kazaları önleyebilir.",
+      "Burnu aşağı ver, güç ver, flapları duruma göre ayarla.",
+      "Sessizlik, tehlikelerin paylaşılmamasına neden olabilir."
+    ],
+    "answer": "Feedback geçmişi, feedforward geleceği şekillendirir.",
+    "explanation": "CRM, uçuş güvenliği için doğru iletişim, liderlik ve iş birliğini şart koşar."
+  },
+  {
+    "id": 50,
+    "question": "Kokpit içinde duygusal patlamalarla nasıl baş edilir?",
+    "options": [
+      "Baş ağrısı, solgunluk ve bilinç bulanıklığı görülebilir.",
+      "TCAS RA varsa ATC değil, sistem talimatı önceliklidir.",
+      "Stres yönetimi eğitimle ve deneyimle sağlanır.",
+      "Feedback geçmişi, feedforward geleceği şekillendirir."
+    ],
+    "answer": "Baş ağrısı, solgunluk ve bilinç bulanıklığı görülebilir.",
+    "explanation": "Pilot psikolojisi, karar kalitesi ve dikkat seviyesini doğrudan etkiler."
+  },
+  {
+    "id": 51,
+    "question": "Stall recovery adımları nelerdir?",
+    "options": [
+      "TCAS RA varsa ATC değil, sistem talimatı önceliklidir.",
+      "Dinlenmeyen bilgi hatalara yol açabilir.",
+      "Korku, baskı ve zaman stresi karar kalitesini düşürür.",
+      "Hemen standard iletişim prosedürlerine dönülmelidir."
+    ],
+    "answer": "TCAS RA varsa ATC değil, sistem talimatı önceliklidir.",
+    "explanation": "Her teknik durumda, checklist ve uçuş eğitimi prosedürleri önceliklidir."
+  },
+  {
+    "id": 52,
+    "question": "CRM kapsamında bir FO’nun beklenen davranışı nedir?",
+    "options": [
+      "Baskı altında iletişim koparsa risk artar.",
+      "ILS CAT II/III prosedürü uygulanır.",
+      "FO proaktif olmalı, gerektiğinde fikir belirtmelidir.",
+      "CAT III koşullarında aktif edilir."
+    ],
+    "answer": "FO proaktif olmalı, gerektiğinde fikir belirtmelidir.",
+    "explanation": "CRM, uçuş güvenliği için doğru iletişim, liderlik ve iş birliğini şart koşar."
+  },
+  {
+    "id": 53,
+    "question": "Yorgunlukla mücadelede en etkin bireysel yöntem nedir?",
+    "options": [
+      "Uyku bozukluğu, ilgisizlik ve sinirlilik görülür.",
+      "Checklist ve teknik destekle ilerlenir.",
+      "Spoilerlar inişte hız kesmek ve yer tutuşunu artırmak için kullanılır.",
+      "Dinlenmeyen bilgi hatalara yol açabilir."
+    ],
+    "answer": "Uyku bozukluğu, ilgisizlik ve sinirlilik görülür.",
+    "explanation": "Pilot psikolojisi, karar kalitesi ve dikkat seviyesini doğrudan etkiler."
+  },
+  {
+    "id": 54,
+    "question": "Stall recovery adımları nelerdir?",
+    "options": [
+      "Stres yönetimi eğitimle ve deneyimle sağlanır.",
+      "Briefing net, kısa ve operasyonel olmalıdır.",
+      "Baş ağrısı, solgunluk ve bilinç bulanıklığı görülebilir.",
+      "CAT III koşullarında aktif edilir."
+    ],
+    "answer": "CAT III koşullarında aktif edilir.",
+    "explanation": "Her teknik durumda, checklist ve uçuş eğitimi prosedürleri önceliklidir."
+  },
+  {
+    "id": 55,
+    "question": "Kokpit içinde görev dağılımı nasıl yapılmalı ve neden önemlidir?",
+    "options": [
+      "Burnu aşağı ver, güç ver, flapları duruma göre ayarla.",
+      "Kaliteli uyku ve dinlenme en etkili yöntemdir.",
+      "NOTAM eksikliği güvenliği doğrudan etkileyebilir.",
+      "Hemen standard iletişim prosedürlerine dönülmelidir."
+    ],
+    "answer": "Hemen standard iletişim prosedürlerine dönülmelidir.",
+    "explanation": "CRM, uçuş güvenliği için doğru iletişim, liderlik ve iş birliğini şart koşar."
+  },
+  {
+    "id": 56,
+    "question": "Kokpit içinde duygusal patlamalarla nasıl baş edilir?",
+    "options": [
+      "Hemen standard iletişim prosedürlerine dönülmelidir.",
+      "Algı daralır, karar süresi uzar.",
+      "İlgili tanklar kapatılır ve balans sağlanır.",
+      "FO proaktif olmalı, gerektiğinde fikir belirtmelidir."
+    ],
+    "answer": "Algı daralır, karar süresi uzar.",
+    "explanation": "Pilot psikolojisi, karar kalitesi ve dikkat seviyesini doğrudan etkiler."
+  },
+  {
+    "id": 57,
+    "question": "Dual engine failure durumunda pilotun CRM’e göre ilk görevi nedir?",
+    "options": [
+      "Burnu aşağı ver, güç ver, flapları duruma göre ayarla.",
+      "Korku, baskı ve zaman stresi karar kalitesini düşürür.",
+      "Feedback geçmişi, feedforward geleceği şekillendirir.",
+      "Briefing net, kısa ve operasyonel olmalıdır."
+    ],
+    "answer": "Burnu aşağı ver, güç ver, flapları duruma göre ayarla.",
+    "explanation": "Her teknik durumda, checklist ve uçuş eğitimi prosedürleri önceliklidir."
+  },
+  {
+    "id": 58,
+    "question": "CRM’e göre efektif dinlemenin pilot üzerindeki etkisi nedir?",
+    "options": [
+      "Baş ağrısı, solgunluk ve bilinç bulanıklığı görülebilir.",
+      "Checklist ve teknik destekle ilerlenir.",
+      "Stres yönetimi eğitimle ve deneyimle sağlanır.",
+      "TCAS RA varsa ATC değil, sistem talimatı önceliklidir."
+    ],
+    "answer": "Stres yönetimi eğitimle ve deneyimle sağlanır.",
+    "explanation": "CRM, uçuş güvenliği için doğru iletişim, liderlik ve iş birliğini şart koşar."
+  },
+  {
+    "id": 59,
+    "question": "Tehdit ve hata yönetimi pilot psikolojisini nasıl etkiler?",
+    "options": [
+      "Burnu aşağı ver, güç ver, flapları duruma göre ayarla.",
+      "Doğru zamanda net müdahale kazaları önleyebilir.",
+      "Hemen standard iletişim prosedürlerine dönülmelidir.",
+      "Görevlerin açık şekilde belirlenmesi verimliliği artırır."
+    ],
+    "answer": "Doğru zamanda net müdahale kazaları önleyebilir.",
+    "explanation": "Pilot psikolojisi, karar kalitesi ve dikkat seviyesini doğrudan etkiler."
+  },
+  {
+    "id": 60,
+    "question": "Fuel imbalance fark edildiğinde ne yapılmalıdır?",
+    "options": [
+      "Emniyeti etkileyen kritik durumlarda kaptan inisiyatif alır.",
+      "Spoilerlar inişte hız kesmek ve yer tutuşunu artırmak için kullanılır.",
+      "Feedback geçmişi, feedforward geleceği şekillendirir.",
+      "Uyku bozukluğu, ilgisizlik ve sinirlilik görülür."
+    ],
+    "answer": "Spoilerlar inişte hız kesmek ve yer tutuşunu artırmak için kullanılır.",
+    "explanation": "Her teknik durumda, checklist ve uçuş eğitimi prosedürleri önceliklidir."
+  },
+  {
+    "id": 61,
+    "question": "Kokpit içinde görev dağılımı nasıl yapılmalı ve neden önemlidir?",
+    "options": [
+      "Korku, baskı ve zaman stresi karar kalitesini düşürür.",
+      "Lider kaptan net, sakin ve rehber olmalıdır.",
+      "Spoilerlar inişte hız kesmek ve yer tutuşunu artırmak için kullanılır.",
+      "CAT III koşullarında aktif edilir."
+    ],
+    "answer": "Lider kaptan net, sakin ve rehber olmalıdır.",
+    "explanation": "CRM, uçuş güvenliği için doğru iletişim, liderlik ve iş birliğini şart koşar."
+  },
+  {
+    "id": 62,
+    "question": "Kokpitte sessiz kalmanın getirdiği riskler nelerdir?",
+    "options": [
+      "Lider kaptan net, sakin ve rehber olmalıdır.",
+      "Görevlerin açık şekilde belirlenmesi verimliliği artırır.",
+      "Empatik ve yapıcı müdahale gerekir.",
+      "Emniyeti etkileyen kritik durumlarda kaptan inisiyatif alır."
+    ],
+    "answer": "Empatik ve yapıcı müdahale gerekir.",
+    "explanation": "Pilot psikolojisi, karar kalitesi ve dikkat seviyesini doğrudan etkiler."
+  },
+  {
+    "id": 63,
+    "question": "Spoilerlar uçağın hangi fazında ve ne amaçla kullanılır?",
+    "options": [
+      "Steril cockpit kalkış ve yaklaşma sırasında dikkat dağınıklığını önler.",
+      "Checklist açılır, sistem basınçları kontrol edilir.",
+      "Hemen standard iletişim prosedürlerine dönülmelidir.",
+      "Lider kaptan net, sakin ve rehber olmalıdır."
+    ],
+    "answer": "Checklist açılır, sistem basınçları kontrol edilir.",
+    "explanation": "Her teknik durumda, checklist ve uçuş eğitimi prosedürleri önceliklidir."
+  },
+  {
+    "id": 64,
+    "question": "CRM kapsamında bir FO’nun beklenen davranışı nedir?",
+    "options": [
+      "Briefing net, kısa ve operasyonel olmalıdır.",
+      "CAT III koşullarında aktif edilir.",
+      "Spoilerlar inişte hız kesmek ve yer tutuşunu artırmak için kullanılır.",
+      "Kaliteli uyku ve dinlenme en etkili yöntemdir."
+    ],
+    "answer": "Briefing net, kısa ve operasyonel olmalıdır.",
+    "explanation": "CRM, uçuş güvenliği için doğru iletişim, liderlik ve iş birliğini şart koşar."
+  },
+  {
+    "id": 65,
+    "question": "Stresli anlarda pilotun bilişsel kabiliyetinde ne gibi değişimler olur?",
+    "options": [
+      "İletişim ve kontrollü uçuş devam ettirilir.",
+      "Kaliteli uyku ve dinlenme en etkili yöntemdir.",
+      "Checklist ve teknik destekle ilerlenir.",
+      "Emniyeti etkileyen kritik durumlarda kaptan inisiyatif alır."
+    ],
+    "answer": "Kaliteli uyku ve dinlenme en etkili yöntemdir.",
+    "explanation": "Pilot psikolojisi, karar kalitesi ve dikkat seviyesini doğrudan etkiler."
+  },
+  {
+    "id": 66,
+    "question": "Dual engine failure durumunda pilotun CRM’e göre ilk görevi nedir?",
+    "options": [
+      "NOTAM eksikliği güvenliği doğrudan etkileyebilir.",
+      "Dinlenmeyen bilgi hatalara yol açabilir.",
+      "Sessizlik, tehlikelerin paylaşılmamasına neden olabilir.",
+      "Kaliteli uyku ve dinlenme en etkili yöntemdir."
+    ],
+    "answer": "NOTAM eksikliği güvenliği doğrudan etkileyebilir.",
+    "explanation": "Her teknik durumda, checklist ve uçuş eğitimi prosedürleri önceliklidir."
+  },
+  {
+    "id": 67,
+    "question": "Kokpit içinde görev dağılımı nasıl yapılmalı ve neden önemlidir?",
+    "options": [
+      "Sessizlik, tehlikelerin paylaşılmamasına neden olabilir.",
+      "Algı daralır, karar süresi uzar.",
+      "Steril cockpit kalkış ve yaklaşma sırasında dikkat dağınıklığını önler.",
+      "TCAS RA varsa ATC değil, sistem talimatı önceliklidir."
+    ],
+    "answer": "Steril cockpit kalkış ve yaklaşma sırasında dikkat dağınıklığını önler.",
+    "explanation": "CRM, uçuş güvenliği için doğru iletişim, liderlik ve iş birliğini şart koşar."
+  },
+  {
+    "id": 68,
+    "question": "Kokpitte sessiz kalmanın getirdiği riskler nelerdir?",
+    "options": [
+      "Checklist ve teknik destekle ilerlenir.",
+      "Baskı altında iletişim koparsa risk artar.",
+      "Emniyeti etkileyen kritik durumlarda kaptan inisiyatif alır.",
+      "Checklist açılır, sistem basınçları kontrol edilir."
+    ],
+    "answer": "Baskı altında iletişim koparsa risk artar.",
+    "explanation": "Pilot psikolojisi, karar kalitesi ve dikkat seviyesini doğrudan etkiler."
+  },
+  {
+    "id": 69,
+    "question": "TCAS RA uyarısı alındığında ne yapılmalıdır?",
+    "options": [
+      "Görevlerin açık şekilde belirlenmesi verimliliği artırır.",
+      "Dinlenmeyen bilgi hatalara yol açabilir.",
+      "Algı daralır, karar süresi uzar.",
+      "İlgili tanklar kapatılır ve balans sağlanır."
+    ],
+    "answer": "İlgili tanklar kapatılır ve balans sağlanır.",
+    "explanation": "Her teknik durumda, checklist ve uçuş eğitimi prosedürleri önceliklidir."
+  },
+  {
+    "id": 70,
+    "question": "İletişim kopukluğu yaşanırsa ne gibi adımlar atılmalıdır?",
+    "options": [
+      "Baş ağrısı, solgunluk ve bilinç bulanıklığı görülebilir.",
+      "Checklist açılır, sistem basınçları kontrol edilir.",
+      "Görevlerin açık şekilde belirlenmesi verimliliği artırır.",
+      "Empatik ve yapıcı müdahale gerekir."
+    ],
+    "answer": "Görevlerin açık şekilde belirlenmesi verimliliği artırır.",
+    "explanation": "CRM, uçuş güvenliği için doğru iletişim, liderlik ve iş birliğini şart koşar."
+  },
+  {
+    "id": 71,
+    "question": "Bir pilotun tükenmişlik sendromu belirtileri nelerdir?",
+    "options": [
+      "Odak kaybı, hata yapma sıklığı ile anlaşılır.",
+      "Steril cockpit kalkış ve yaklaşma sırasında dikkat dağınıklığını önler.",
+      "Dinlenmeyen bilgi hatalara yol açabilir.",
+      "Spoilerlar inişte hız kesmek ve yer tutuşunu artırmak için kullanılır."
+    ],
+    "answer": "Odak kaybı, hata yapma sıklığı ile anlaşılır.",
+    "explanation": "Pilot psikolojisi, karar kalitesi ve dikkat seviyesini doğrudan etkiler."
+  },
+  {
+    "id": 72,
+    "question": "Hydraulic sistem arızasında kaptanın ilk aksiyonu ne olur?",
+    "options": [
+      "ILS CAT II/III prosedürü uygulanır.",
+      "Empatik ve yapıcı müdahale gerekir.",
+      "Görevlerin açık şekilde belirlenmesi verimliliği artırır.",
+      "Emniyeti etkileyen kritik durumlarda kaptan inisiyatif alır."
+    ],
+    "answer": "ILS CAT II/III prosedürü uygulanır.",
+    "explanation": "Her teknik durumda, checklist ve uçuş eğitimi prosedürleri önceliklidir."
+  },
+  {
+    "id": 73,
+    "question": "CRM’de feedforward ve feedback farkı nedir?",
+    "options": [
+      "Emniyeti etkileyen kritik durumlarda kaptan inisiyatif alır.",
+      "Spoilerlar inişte hız kesmek ve yer tutuşunu artırmak için kullanılır.",
+      "Odak kaybı, hata yapma sıklığı ile anlaşılır.",
+      "NOTAM eksikliği güvenliği doğrudan etkileyebilir."
+    ],
+    "answer": "Emniyeti etkileyen kritik durumlarda kaptan inisiyatif alır.",
+    "explanation": "CRM, uçuş güvenliği için doğru iletişim, liderlik ve iş birliğini şart koşar."
+  },
+  {
+    "id": 74,
+    "question": "Bir pilotun tükenmişlik sendromu belirtileri nelerdir?",
+    "options": [
+      "Hemen standard iletişim prosedürlerine dönülmelidir.",
+      "ILS CAT II/III prosedürü uygulanır.",
+      "Steril cockpit kalkış ve yaklaşma sırasında dikkat dağınıklığını önler.",
+      "Korku, baskı ve zaman stresi karar kalitesini düşürür."
+    ],
+    "answer": "Korku, baskı ve zaman stresi karar kalitesini düşürür.",
+    "explanation": "Pilot psikolojisi, karar kalitesi ve dikkat seviyesini doğrudan etkiler."
+  },
+  {
+    "id": 75,
+    "question": "Spoilerlar uçağın hangi fazında ve ne amaçla kullanılır?",
+    "options": [
+      "İletişim ve kontrollü uçuş devam ettirilir.",
+      "Uyku bozukluğu, ilgisizlik ve sinirlilik görülür.",
+      "Algı daralır, karar süresi uzar.",
+      "Feedback geçmişi, feedforward geleceği şekillendirir."
+    ],
+    "answer": "İletişim ve kontrollü uçuş devam ettirilir.",
+    "explanation": "Her teknik durumda, checklist ve uçuş eğitimi prosedürleri önceliklidir."
+  },
+  {
+    "id": 76,
+    "question": "CRM’e göre efektif dinlemenin pilot üzerindeki etkisi nedir?",
+    "options": [
+      "NOTAM eksikliği güvenliği doğrudan etkileyebilir.",
+      "Doğru zamanda net müdahale kazaları önleyebilir.",
+      "Dinlenmeyen bilgi hatalara yol açabilir.",
+      "TCAS RA varsa ATC değil, sistem talimatı önceliklidir."
+    ],
+    "answer": "Dinlenmeyen bilgi hatalara yol açabilir.",
+    "explanation": "CRM, uçuş güvenliği için doğru iletişim, liderlik ve iş birliğini şart koşar."
+  },
+  {
+    "id": 77,
+    "question": "CRM kapsamında mental yorgunluk nasıl anlaşılır?",
+    "options": [
+      "Feedback geçmişi, feedforward geleceği şekillendirir.",
+      "Steril cockpit kalkış ve yaklaşma sırasında dikkat dağınıklığını önler.",
+      "Sessizlik, tehlikelerin paylaşılmamasına neden olabilir.",
+      "Dinlenmeyen bilgi hatalara yol açabilir."
+    ],
+    "answer": "Sessizlik, tehlikelerin paylaşılmamasına neden olabilir.",
+    "explanation": "Pilot psikolojisi, karar kalitesi ve dikkat seviyesini doğrudan etkiler."
+  },
+  {
+    "id": 78,
+    "question": "Bird strike sonrası kokpit ekibi nasıl bir yol izlemelidir?",
+    "options": [
+      "Stres yönetimi eğitimle ve deneyimle sağlanır.",
+      "Uyku bozukluğu, ilgisizlik ve sinirlilik görülür.",
+      "Checklist ve teknik destekle ilerlenir.",
+      "Hemen standard iletişim prosedürlerine dönülmelidir."
+    ],
+    "answer": "Checklist ve teknik destekle ilerlenir.",
+    "explanation": "Her teknik durumda, checklist ve uçuş eğitimi prosedürleri önceliklidir."
+  },
+  {
+    "id": 79,
+    "question": "CRM’e göre efektif dinlemenin pilot üzerindeki etkisi nedir?",
+    "options": [
+      "Feedback geçmişi, feedforward geleceği şekillendirir.",
+      "İlgili tanklar kapatılır ve balans sağlanır.",
+      "Odak kaybı, hata yapma sıklığı ile anlaşılır.",
+      "Algı daralır, karar süresi uzar."
+    ],
+    "answer": "Feedback geçmişi, feedforward geleceği şekillendirir.",
+    "explanation": "CRM, uçuş güvenliği için doğru iletişim, liderlik ve iş birliğini şart koşar."
+  },
+  {
+    "id": 80,
+    "question": "Yorgunlukla mücadelede en etkin bireysel yöntem nedir?",
+    "options": [
+      "FO proaktif olmalı, gerektiğinde fikir belirtmelidir.",
+      "Checklist açılır, sistem basınçları kontrol edilir.",
+      "CAT III koşullarında aktif edilir.",
+      "Baş ağrısı, solgunluk ve bilinç bulanıklığı görülebilir."
+    ],
+    "answer": "Baş ağrısı, solgunluk ve bilinç bulanıklığı görülebilir.",
+    "explanation": "Pilot psikolojisi, karar kalitesi ve dikkat seviyesini doğrudan etkiler."
+  },
+  {
+    "id": 81,
+    "question": "Autoland sistemi hangi koşullarda kullanılır?",
+    "options": [
+      "Stres yönetimi eğitimle ve deneyimle sağlanır.",
+      "Baş ağrısı, solgunluk ve bilinç bulanıklığı görülebilir.",
+      "Korku, baskı ve zaman stresi karar kalitesini düşürür.",
+      "TCAS RA varsa ATC değil, sistem talimatı önceliklidir."
+    ],
+    "answer": "TCAS RA varsa ATC değil, sistem talimatı önceliklidir.",
+    "explanation": "Her teknik durumda, checklist ve uçuş eğitimi prosedürleri önceliklidir."
+  },
+  {
+    "id": 82,
+    "question": "Uçuş sırasında kaptanın CRM liderliği nasıl görünmelidir?",
+    "options": [
+      "FO proaktif olmalı, gerektiğinde fikir belirtmelidir.",
+      "CAT III koşullarında aktif edilir.",
+      "Spoilerlar inişte hız kesmek ve yer tutuşunu artırmak için kullanılır.",
+      "Checklist ve teknik destekle ilerlenir."
+    ],
+    "answer": "FO proaktif olmalı, gerektiğinde fikir belirtmelidir.",
+    "explanation": "CRM, uçuş güvenliği için doğru iletişim, liderlik ve iş birliğini şart koşar."
+  },
+  {
+    "id": 83,
+    "question": "CRM’e göre güvenli karar vermeyi etkileyen psikolojik faktörler nelerdir?",
+    "options": [
+      "Uyku bozukluğu, ilgisizlik ve sinirlilik görülür.",
+      "Görevlerin açık şekilde belirlenmesi verimliliği artırır.",
+      "İlgili tanklar kapatılır ve balans sağlanır.",
+      "NOTAM eksikliği güvenliği doğrudan etkileyebilir."
+    ],
+    "answer": "Uyku bozukluğu, ilgisizlik ve sinirlilik görülür.",
+    "explanation": "Pilot psikolojisi, karar kalitesi ve dikkat seviyesini doğrudan etkiler."
+  },
+  {
+    "id": 84,
+    "question": "TCAS RA uyarısı alındığında ne yapılmalıdır?",
+    "options": [
+      "Baskı altında iletişim koparsa risk artar.",
+      "CAT III koşullarında aktif edilir.",
+      "Empatik ve yapıcı müdahale gerekir.",
+      "Odak kaybı, hata yapma sıklığı ile anlaşılır."
+    ],
+    "answer": "CAT III koşullarında aktif edilir.",
+    "explanation": "Her teknik durumda, checklist ve uçuş eğitimi prosedürleri önceliklidir."
+  },
+  {
+    "id": 85,
+    "question": "CRM’de feedforward ve feedback farkı nedir?",
+    "options": [
+      "Uyku bozukluğu, ilgisizlik ve sinirlilik görülür.",
+      "Odak kaybı, hata yapma sıklığı ile anlaşılır.",
+      "Hemen standard iletişim prosedürlerine dönülmelidir.",
+      "CAT III koşullarında aktif edilir."
+    ],
+    "answer": "Hemen standard iletişim prosedürlerine dönülmelidir.",
+    "explanation": "CRM, uçuş güvenliği için doğru iletişim, liderlik ve iş birliğini şart koşar."
+  },
+  {
+    "id": 86,
+    "question": "Yüksek irtifada hipoksi belirtileri nelerdir?",
+    "options": [
+      "İlgili tanklar kapatılır ve balans sağlanır.",
+      "NOTAM eksikliği güvenliği doğrudan etkileyebilir.",
+      "FO proaktif olmalı, gerektiğinde fikir belirtmelidir.",
+      "Algı daralır, karar süresi uzar."
+    ],
+    "answer": "Algı daralır, karar süresi uzar.",
+    "explanation": "Pilot psikolojisi, karar kalitesi ve dikkat seviyesini doğrudan etkiler."
+  },
+  {
+    "id": 87,
+    "question": "Fuel imbalance fark edildiğinde ne yapılmalıdır?",
+    "options": [
+      "Algı daralır, karar süresi uzar.",
+      "Empatik ve yapıcı müdahale gerekir.",
+      "Baş ağrısı, solgunluk ve bilinç bulanıklığı görülebilir.",
+      "Burnu aşağı ver, güç ver, flapları duruma göre ayarla."
+    ],
+    "answer": "Burnu aşağı ver, güç ver, flapları duruma göre ayarla.",
+    "explanation": "Her teknik durumda, checklist ve uçuş eğitimi prosedürleri önceliklidir."
+  },
+  {
+    "id": 88,
+    "question": "Steril cockpit kavramı nedir ve neden uygulanır?",
+    "options": [
+      "Stres yönetimi eğitimle ve deneyimle sağlanır.",
+      "NOTAM eksikliği güvenliği doğrudan etkileyebilir.",
+      "Kaliteli uyku ve dinlenme en etkili yöntemdir.",
+      "Sessizlik, tehlikelerin paylaşılmamasına neden olabilir."
+    ],
+    "answer": "Stres yönetimi eğitimle ve deneyimle sağlanır.",
+    "explanation": "CRM, uçuş güvenliği için doğru iletişim, liderlik ve iş birliğini şart koşar."
+  },
+  {
+    "id": 89,
+    "question": "Tehdit ve hata yönetimi pilot psikolojisini nasıl etkiler?",
+    "options": [
+      "Doğru zamanda net müdahale kazaları önleyebilir.",
+      "Emniyeti etkileyen kritik durumlarda kaptan inisiyatif alır.",
+      "NOTAM eksikliği güvenliği doğrudan etkileyebilir.",
+      "Burnu aşağı ver, güç ver, flapları duruma göre ayarla."
+    ],
+    "answer": "Doğru zamanda net müdahale kazaları önleyebilir.",
+    "explanation": "Pilot psikolojisi, karar kalitesi ve dikkat seviyesini doğrudan etkiler."
+  },
+  {
+    "id": 90,
+    "question": "Uçuş öncesi NOTAM kontrolünün önemi nedir?",
+    "options": [
+      "Korku, baskı ve zaman stresi karar kalitesini düşürür.",
+      "Kaliteli uyku ve dinlenme en etkili yöntemdir.",
+      "Spoilerlar inişte hız kesmek ve yer tutuşunu artırmak için kullanılır.",
+      "Algı daralır, karar süresi uzar."
+    ],
+    "answer": "Spoilerlar inişte hız kesmek ve yer tutuşunu artırmak için kullanılır.",
+    "explanation": "Her teknik durumda, checklist ve uçuş eğitimi prosedürleri önceliklidir."
+  },
+  {
+    "id": 91,
+    "question": "CRM’de feedforward ve feedback farkı nedir?",
+    "options": [
+      "Kaliteli uyku ve dinlenme en etkili yöntemdir.",
+      "Baskı altında iletişim koparsa risk artar.",
+      "Lider kaptan net, sakin ve rehber olmalıdır.",
+      "İletişim ve kontrollü uçuş devam ettirilir."
+    ],
+    "answer": "Lider kaptan net, sakin ve rehber olmalıdır.",
+    "explanation": "CRM, uçuş güvenliği için doğru iletişim, liderlik ve iş birliğini şart koşar."
+  },
+  {
+    "id": 92,
+    "question": "Tehdit ve hata yönetimi pilot psikolojisini nasıl etkiler?",
+    "options": [
+      "Steril cockpit kalkış ve yaklaşma sırasında dikkat dağınıklığını önler.",
+      "İlgili tanklar kapatılır ve balans sağlanır.",
+      "Feedback geçmişi, feedforward geleceği şekillendirir.",
+      "Empatik ve yapıcı müdahale gerekir."
+    ],
+    "answer": "Empatik ve yapıcı müdahale gerekir.",
+    "explanation": "Pilot psikolojisi, karar kalitesi ve dikkat seviyesini doğrudan etkiler."
+  },
+  {
+    "id": 93,
+    "question": "Hydraulic sistem arızasında kaptanın ilk aksiyonu ne olur?",
+    "options": [
+      "Sessizlik, tehlikelerin paylaşılmamasına neden olabilir.",
+      "Korku, baskı ve zaman stresi karar kalitesini düşürür.",
+      "Hemen standard iletişim prosedürlerine dönülmelidir.",
+      "Checklist açılır, sistem basınçları kontrol edilir."
+    ],
+    "answer": "Checklist açılır, sistem basınçları kontrol edilir.",
+    "explanation": "Her teknik durumda, checklist ve uçuş eğitimi prosedürleri önceliklidir."
+  },
+  {
+    "id": 94,
+    "question": "Uçuş sırasında kaptanın CRM liderliği nasıl görünmelidir?",
+    "options": [
+      "Briefing net, kısa ve operasyonel olmalıdır.",
+      "Spoilerlar inişte hız kesmek ve yer tutuşunu artırmak için kullanılır.",
+      "ILS CAT II/III prosedürü uygulanır.",
+      "Burnu aşağı ver, güç ver, flapları duruma göre ayarla."
+    ],
+    "answer": "Briefing net, kısa ve operasyonel olmalıdır.",
+    "explanation": "CRM, uçuş güvenliği için doğru iletişim, liderlik ve iş birliğini şart koşar."
+  },
+  {
+    "id": 95,
+    "question": "Tehdit ve hata yönetimi pilot psikolojisini nasıl etkiler?",
+    "options": [
+      "TCAS RA varsa ATC değil, sistem talimatı önceliklidir.",
+      "Kaliteli uyku ve dinlenme en etkili yöntemdir.",
+      "İlgili tanklar kapatılır ve balans sağlanır.",
+      "İletişim ve kontrollü uçuş devam ettirilir."
+    ],
+    "answer": "Kaliteli uyku ve dinlenme en etkili yöntemdir.",
+    "explanation": "Pilot psikolojisi, karar kalitesi ve dikkat seviyesini doğrudan etkiler."
+  },
+  {
+    "id": 96,
+    "question": "Bird strike sonrası kokpit ekibi nasıl bir yol izlemelidir?",
+    "options": [
+      "NOTAM eksikliği güvenliği doğrudan etkileyebilir.",
+      "Lider kaptan net, sakin ve rehber olmalıdır.",
+      "Kaliteli uyku ve dinlenme en etkili yöntemdir.",
+      "Doğru zamanda net müdahale kazaları önleyebilir."
+    ],
+    "answer": "NOTAM eksikliği güvenliği doğrudan etkileyebilir.",
+    "explanation": "Her teknik durumda, checklist ve uçuş eğitimi prosedürleri önceliklidir."
+  },
+  {
+    "id": 97,
+    "question": "Hangi durumlarda kaptan müdahalesi kaçınılmazdır ve neden?",
+    "options": [
+      "Steril cockpit kalkış ve yaklaşma sırasında dikkat dağınıklığını önler.",
+      "Checklist açılır, sistem basınçları kontrol edilir.",
+      "Empatik ve yapıcı müdahale gerekir.",
+      "Baş ağrısı, solgunluk ve bilinç bulanıklığı görülebilir."
+    ],
+    "answer": "Steril cockpit kalkış ve yaklaşma sırasında dikkat dağınıklığını önler.",
+    "explanation": "CRM, uçuş güvenliği için doğru iletişim, liderlik ve iş birliğini şart koşar."
+  },
+  {
+    "id": 98,
+    "question": "Yüksek irtifada hipoksi belirtileri nelerdir?",
+    "options": [
+      "Görevlerin açık şekilde belirlenmesi verimliliği artırır.",
+      "Emniyeti etkileyen kritik durumlarda kaptan inisiyatif alır.",
+      "Baskı altında iletişim koparsa risk artar.",
+      "FO proaktif olmalı, gerektiğinde fikir belirtmelidir."
+    ],
+    "answer": "Baskı altında iletişim koparsa risk artar.",
+    "explanation": "Pilot psikolojisi, karar kalitesi ve dikkat seviyesini doğrudan etkiler."
+  },
+  {
+    "id": 99,
+    "question": "Hydraulic sistem arızasında kaptanın ilk aksiyonu ne olur?",
+    "options": [
+      "Algı daralır, karar süresi uzar.",
+      "Uyku bozukluğu, ilgisizlik ve sinirlilik görülür.",
+      "İlgili tanklar kapatılır ve balans sağlanır.",
+      "Hemen standard iletişim prosedürlerine dönülmelidir."
+    ],
+    "answer": "İlgili tanklar kapatılır ve balans sağlanır.",
+    "explanation": "Her teknik durumda, checklist ve uçuş eğitimi prosedürleri önceliklidir."
+  },
+  {
+    "id": 100,
+    "question": "CRM kapsamında bir FO’nun beklenen davranışı nedir?",
+    "options": [
+      "Görevlerin açık şekilde belirlenmesi verimliliği artırır.",
+      "ILS CAT II/III prosedürü uygulanır.",
+      "Baskı altında iletişim koparsa risk artar.",
+      "Empatik ve yapıcı müdahale gerekir."
+    ],
+    "answer": "Görevlerin açık şekilde belirlenmesi verimliliği artırır.",
+    "explanation": "CRM, uçuş güvenliği için doğru iletişim, liderlik ve iş birliğini şart koşar."
+  }
+]
